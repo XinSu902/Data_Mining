@@ -6,3 +6,5 @@ Kaggle House Price competition
 2. Data Cleaning: missing value imputation, outlier-Winsorizing, skewness-Standardization, convert data type
 3. Feature engineering: target encoding, feature selection, PCA
 4. Modelling: h2o AutoMl
+
+Tool/language: Python, Pandas, h2o
